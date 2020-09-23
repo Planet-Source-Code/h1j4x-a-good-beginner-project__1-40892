@@ -1,0 +1,9 @@
+frmButtons = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmCmnDialog = 0, 0, 0, 0, C, 88, 88, 673, 610, C
+frmExplorer = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmListBoxes = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmMain = 44, 44, 629, 566, C, 22, 22, 607, 544, C
+frmMsgBoxes = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmText = 110, 110, 695, 632, C, 181, 170, 766, 692, C
+mdlCommands = 0, 0, 0, 0, C
+frmTimers = 0, 0, 0, 0, C, 0, 0, 0, 0, C
